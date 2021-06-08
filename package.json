@@ -1,7 +1,7 @@
 {
   "name": "base45-web",
   "description": "Encode/decode base45 data - including non-utf8 compliant data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/ehn-digital-green-development/base45-js",
   "author": {
     "name": "Dirk-Willem van Gulik",
