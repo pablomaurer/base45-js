@@ -1,5 +1,5 @@
 {
-  "name": "base45-js",
+  "name": "base45-web",
   "description": "Encode/decode base45 data - including non-utf8 compliant data",
   "version": "1.0.0",
   "homepage": "https://github.com/ehn-digital-green-development/base45-js",
@@ -7,23 +7,17 @@
     "name": "Dirk-Willem van Gulik",
     "email": "dirkx@apache.org"
   },
-  "contributors": [
-    {
-      "name": "Steve Kellaway",
-      "email": "steve.kellaway@mefitihe.com"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/iehn-digital-green-development/base45-js"
+    "url": "https://github.com/pablomaurer/base45-js"
   },
   "bugs": {
-    "url": "https://github.com/ehn-digital-green-development/base45-js/issues"
+    "url": "https://github.com/pablomaurer/base45-js/issues"
   },
   "licenses": [
     {
       "type": "Apache-2.0",
-      "url": "https://github.com/ehn-digital-green-development/base45/blob/master/LICENSE-ASF-2.0.txt"
+      "url": "https://github.com/pablomaurer/base45-js/blob/main/LICENSE-ASF-2.0.txt"
     }
   ],
   "main": "lib/base45",
@@ -36,7 +30,7 @@
   "devDependencies": {
     "mocha": "^8.3.2"
   },
-  "keywords": [],
+  "keywords": ["base45"],
   "vsTest": {
     "testRoot": "./test"
   }
